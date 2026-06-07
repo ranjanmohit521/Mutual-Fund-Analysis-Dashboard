@@ -1,4 +1,8 @@
-# 📊 Mutual Fund Overview & Insights
+# 📊 Mutual Fund Analysis Dashboard
+
+## Author
+Mohit Ranjan
+B.Tech Electronics & Communication Engineering, BIT Mesra
 
 This mutual fund analysis project focuses on identifying top 30 schemes with high return and low risk using Python, Excel, and Power BI.
 
@@ -16,7 +20,6 @@ To identify **top-performing, low-risk mutual fund schemes** using data-driven t
 ## 🐍 Python-Based Fund Analysis
 
 I started by importing and exploring a dataset of over 2500 mutual fund schemes.  
-🔗 [Python Script](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/commit/851d5bb1928e3c85b1f22495efb141ed287bf943)
 
 ### 1. Data Cleaning
 - Removed unnecessary columns
@@ -40,15 +43,12 @@ Custom scoring formula based on:
 
 ### 5. Final Output – Top 30 Funds
 Extracted the **Top 30 Mutual Funds** with best return-low risk balance  
-🔗 [Top 30 Mutual Funds (Excel)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx)
 
 ---
 
 ## 📈 Power BI Dashboard – Mutual Fund Insights
 
 After processing the data using Python and Excel, I built an **interactive dashboard** in Power BI.  
-🔗 [Power BI Dashboard File (.pbix)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
-🔗 [Dashboard Preview Image](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
 
 ### 📌 Key Features
 
@@ -81,9 +81,14 @@ After processing the data using Python and Excel, I built an **interactive dashb
 
 ## 🖼️ Dashboard Preview
 
-![Mutual Fund Dashboard Preview](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
+![Mutual Fund Dashboard Preview](Mutual%20Fund%20Dashboard%20.png)
 
 ---
+## Enhancements Added
+
+- Repository maintained and documented by Mohit Ranjan
+- Enhanced project documentation and presentation
+- Improved repository organization for analytics portfolio showcase
 
 ### 🧠 Final Conclusion – See the Power of Investment
 
@@ -112,16 +117,6 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 
 ---
 
-## 📁 Files in This Repository
-
-| File | Description |
-|------|-------------|
-| [top_30_mutual_funds.xlsx](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx) | Final top 30 filtered mutual funds |
-| [Mutual Fund Dashboard.pbix](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix) | Power BI dashboard |
-| [Mutual Fund Dashboard.png](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png) | Dashboard image preview |
-
----
-
 ✅ **Feel free to fork, explore, and contribute!**
 
 ### 🙌 Feedback Welcome
@@ -129,7 +124,10 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 Thank you for exploring my Mutual Fund Analysis project!  
 I’m always open to suggestions, improvements, or collaboration ideas.
 
-📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b)  
-📧 Or drop an email: **niravtrivedi069@gmail.com**
+## Contact
+
+GitHub: [Mohit's GitHub](https://github.com/ranjanmohit521)
+
+Email: **ranjanmohit2005@gmail.com**
 
 Your feedback helps me grow and build better data-driven solutions. Let’s connect and discuss ideas!
